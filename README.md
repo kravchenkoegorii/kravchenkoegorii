@@ -9,23 +9,17 @@
 - 🏦 I'm a .NET Dev who loves what I do 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily **.js**, **.java**, **.py**,  **.sql**
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
-- ⚡ Fun fact: Je connais un peu le français
+- 💻 I use daily ASP.NET, EF Core, PostgreSql, etc.
+- ⚡ Fact about me: I love dancing 
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="csharp" width="65" height="65"/> 
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/dotnet.svg" alt="dotnet" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/postgresql-logo.svg" width="55" height="55"/>
+      <img src="https://iconape.com/wp-content/files/jg/371367/svg/371367.svg" alt="rabbitmq" width="55" height="55"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="azure" width="55" height="55"/> 
+      <img src="https://vectorwiki.com/images/cEFKB__docker.svg" alt="docker" width="55" height="55"/>
 </p>
 
 ---
@@ -38,32 +32,12 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 61.11 % as on ⏰ 11-Aug-2022
-
+⏳ **Year Progress** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 61.11 % as on ⏰ 13-Aug-2022
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [How to Choose The Right Database for Your Application](https://apoorvtyagi.tech/how-to-choose-the-right-database-for-your-application)
-- [SOLID Principles in Java](https://apoorvtyagi.tech/solid-principles-in-java)
-- [Introduction to Asynchronous Processing and Message Queues](https://apoorvtyagi.tech/introduction-to-asynchronous-processing-and-message-queues)
-- [Building Microservices using Spring Boot + HarperDB and Deploying it on AWS](https://apoorvtyagi.tech/building-microservices-using-spring-boot-harperdb-and-deploying-it-on-aws)
-- [Javascript Clean Code Tips &amp; Good Practices](https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [... view more](https://apoorvtyagi.tech/)
-
----
-
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’  Now they have two problems.”— Jamie Zawinski   </i>
+• <i>“If you’re going through hell, keep going.” — Winston Churchill   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
-
----
-
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-
