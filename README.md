@@ -19,6 +19,8 @@
       <img src="https://iconape.com/wp-content/files/jg/371367/svg/371367.svg" alt="rabbitmq" width="55" height="55"/>
       <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="azure" width="55" height="55"/> 
       <img src="https://vectorwiki.com/images/cEFKB__docker.svg" alt="docker" width="55" height="55"/>
+      <img src="https://brandeps.com/logo-download/V/Visual-Studio-logo-vector-01.svg" alt="visualstudio" width="55" height="55"/>
+      <img src="https://iconape.com/wp-content/png_logo_vector/postman.png" alt="postman" width="55" height="55"/>   
 </p>
 
 ---
