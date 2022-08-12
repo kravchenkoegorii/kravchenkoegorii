@@ -8,7 +8,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a .NET Dev who loves what I do 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
 - 💻 I use daily ASP.NET, EF Core, PostgreSql, etc.
 - ⚡ Fact about me: I love dancing 
 - 🧑‍💻 Tech I work on :
