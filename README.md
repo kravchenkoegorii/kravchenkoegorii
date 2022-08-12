@@ -30,8 +30,6 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 61.11 % as on ⏰ 13-Aug-2022
 ---
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Quote:
