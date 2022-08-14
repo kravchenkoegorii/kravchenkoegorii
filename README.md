@@ -11,7 +11,6 @@
 - 🏦 I'm a .NET Dev who loves what I do 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily ASP.NET, EF Core, PostgreSql, etc.
-- ⚡ Fact about me: I love dancing 
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
