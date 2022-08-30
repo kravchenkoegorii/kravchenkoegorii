@@ -17,6 +17,7 @@
       <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="csharp" width="55" height="55"/> 
       <img src="https://raw.githubusercontent.com/gilbarbara/logos/11f54bac1b6dfad2cbd1c6da9f2245ec8b5ea22b/logos/dotnet.svg" alt="dotnet" width="55" height="55"/>
       <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/postgresql-logo.svg" alt="postgresql" width="55" height="55"/>
+       <img src="https://brandeps.com/logo-download/M/Microsoft-sql-server-logo-vector-01.svg" alt="mssql" width="65" height="65"/>
       <img src="https://iconape.com/wp-content/files/jg/371367/svg/371367.svg" alt="rabbitmq" width="55" height="55"/>
       <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="azure" width="55" height="55"/> 
       <img src="https://vectorwiki.com/images/cEFKB__docker.svg" alt="docker" width="55" height="55"/>
