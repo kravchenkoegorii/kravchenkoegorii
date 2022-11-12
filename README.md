@@ -38,6 +38,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“If you’re going through hell, keep going.” — Winston Churchill   </i>
+<p>• “If you’re going through hell, keep going.” — Winston Churchill</p>
+<p>• “Mathematics is the language where lie does not exist.”</p>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
